@@ -1,0 +1,14 @@
+<meta>
+    <oop>true</oop>
+    <info author="Igor Prokuratura" version="1.0.0" name="Referal System" />
+
+    <!-- <script src="shared/shared.luac" type="shared" cache="false" /> -->
+    <script src="shared/shared.lua" type="shared" cache="false" />
+
+    <!-- <script src="client/client.luac" type="client" cache="false" /> -->
+    <script src="client/client.lua" type="client" cache="false" />
+    <!-- <script src="client/UI.luac" type="client" cache="false" /> -->
+    <script src="client/UI.lua" type="client" cache="false" />
+
+    <script src="server/server.lua" type="server" />
+</meta>
